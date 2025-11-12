@@ -36,10 +36,10 @@ entries:
     - database
     maintainers:
     - name: Broadcom, Inc. All Rights Reserved.
-      url: https://github.com/ASA1-ET-JENKINS/bitnami-charts/tree/redis/19.6.4
+      url: https://github.com/ASA1-ET-JENKINS/charts/tree/redis/19.6.4
     name: redis
     sources:
-    - https://github.com/ASA1-ET-JENKINS/bitnami-charts/tree/main/bitnami/redis
+    - https://github.com/ASA1-ET-JENKINS/charts/tree/main/bitnami/redis
     urls:
     - https://asa1-et-jenkins.github.io/charts/redis-19.6.4.tgz
     version: 19.6.4
