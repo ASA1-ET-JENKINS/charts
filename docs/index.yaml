@@ -17,7 +17,7 @@ entries:
       licenses: Apache-2.0
     apiVersion: v2
     appVersion: 7.2.5
-    created: "2025-11-12T09:47:48.762239542+01:00"
+    created: "2025-11-12T14:04:05.414142041+01:00"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -41,6 +41,6 @@ entries:
     sources:
     - https://github.com/ASA1-ET-JENKINS/bitnami-charts/tree/main/bitnami/redis
     urls:
-    - https://asa1-et-jenkins.github.io/bitnami-charts/redis-19.6.4.tgz
+    - https://asa1-et-jenkins.github.io/charts/redis-19.6.4.tgz
     version: 19.6.4
-generated: "2025-11-12T09:47:48.75790339+01:00"
+generated: "2025-11-12T14:04:05.408185985+01:00"
